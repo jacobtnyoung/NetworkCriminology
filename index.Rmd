@@ -1,0 +1,36 @@
+---
+output: 
+  html_document:
+    theme: yeti
+    toc: false
+    toc_float: false
+    collapsed: false
+    smooth_scroll: false
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+## Course Overview
+
+Network *science* is a paradigm (i.e. a model of how the world works) that takes as its domain of interest the interdependence among units. This paradigm examines patterns or regularities in relationships (i.e. structure) among interacting units and focuses on a) how such patterns influence the behavior of these units and b) how such patterns are generated. *Network criminology* is a relatively new, loosely organized (but rapidly growing) body of research in the field of criminology that applies concepts and methods from network science to problems in criminology and criminal justice. This course provides an introduction to a broad range of concepts from what might be considered “classic” or “foundational” works in network science. The overarching goal of the course is to provide you the tools for thinking about problems in criminology and criminal justice through a network lens (i.e. viewing systems as made up of heterogeneous actors connected through different types of relations).
+
+<br>
+<br>
+
+## Topics  
+____
+
+[Topic](name.html)
+
+<br>
+<br>
+
+###### ***Last updated `r format(Sys.time(), '%d %B, %Y')`***
