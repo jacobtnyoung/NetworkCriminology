@@ -25,24 +25,41 @@ Network *science* is a paradigm (i.e. a model of how the world works) that takes
 <br>
 <br>
 
-## Topics  
+## Topics
 ____
 
-#### Network Basics
+<br>
 
-[Topic](name.html)
+### Introduction
+
+<br>
+
+#### Network Basics
+  + [Network Basics Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/lectures/CRJ_523_Week_1_SLIDES.pdf)
+
+<br>
 
 #### Introduction to Network Criminology
 
+<br>
+
 ### Section One: Thinking About Networks in Criminology
+
 *This section examines several topical areas that have drawn on science to test existing theories or better understand prevailing questions in the discipline.*
 
-#### Peer Influence, Co-Offending, and Gangs
+<br>
 
+#### Peer Influence, Co-Offending, and Gangs
 #### Neighborhood Ecology and Criminal Opportunity
 
+<br>
+
+
 ### Section Two: Network Foundations
+
 *This section examines several topics that can be described as foundational concepts in network science. The reading(s) in the “Network Concept(s)” section serves as an introduction to the concept and the “Criminological Application” section serves as the application of those ideas to topics in criminology and criminal justice.*
+
+<br>
 
 #### Homophily
 
