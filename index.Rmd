@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Course Overview
 
-Network *science* is a paradigm (i.e. a model of how the world works) that takes as its domain of interest the interdependence among units. This paradigm examines patterns or regularities in relationships (i.e. structure) among interacting units and focuses on a) how such patterns influence the behavior of these units and b) how such patterns are generated. *Network criminology* is a relatively new, loosely organized (but rapidly growing) body of research in the field of criminology that applies concepts and methods from network science to problems in criminology and criminal justice. This course provides an introduction to a broad range of concepts from what might be considered “classic” or “foundational” works in network science. The overarching goal of the course is to provide you the tools for thinking about problems in criminology and criminal justice through a network lens (i.e. viewing systems as made up of heterogeneous actors connected through different types of relations).
+Network *science* is a paradigm (i.e. a model of how the world works) that takes as its domain of interest the interdependence among units. This paradigm examines patterns or regularities in relationships (i.e. *structure*) among interacting units and focuses on a) how such patterns influence the behavior of these units and b) how such patterns are generated. *Network criminology* is a relatively new, loosely organized (but rapidly growing) body of research that applies concepts and methods from network science to problems in criminology and criminal justice. This course provides an introduction to a broad range of concepts from what might be considered “classic” or “foundational” works in network science. The overarching goal of the course is to provide you the tools for thinking about problems in criminology and criminal justice through a network lens (i.e. viewing systems as made up of heterogeneous actors connected through different types of relations). 
 
 <br>
 <br>
@@ -28,7 +28,37 @@ Network *science* is a paradigm (i.e. a model of how the world works) that takes
 ## Topics  
 ____
 
+#### Network Basics
+
 [Topic](name.html)
+
+#### Introduction to Network Criminology
+
+### Section One: Thinking About Networks in Criminology
+*This section examines several topical areas that have drawn on science to test existing theories or better understand prevailing questions in the discipline.*
+
+#### Peer Influence, Co-Offending, and Gangs
+
+#### Neighborhood Ecology and Criminal Opportunity
+
+### Section Two: Network Foundations
+*This section examines several topics that can be described as foundational concepts in network science. The reading(s) in the “Network Concept(s)” section serves as an introduction to the concept and the “Criminological Application” section serves as the application of those ideas to topics in criminology and criminal justice.*
+
+#### Homophily
+
+#### Embeddedness
+
+#### Social Capital and Resource Mobilization
+
+#### Multiplexity
+
+#### Contagion & Diffusion
+
+#### Status and Hierarchy Formation
+
+#### Network Dynamics & Vulnerability
+
+#### Network Interventions & Policy Considerations
 
 <br>
 <br>
