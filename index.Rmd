@@ -25,7 +25,7 @@ Network *science* is a paradigm (i.e. a model of how the world works) that takes
 <br>
 <br>
 
-## Topics
+## Topics ([syllabus](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_SYLLABUS.pdf))
 ____
 
 <br>
