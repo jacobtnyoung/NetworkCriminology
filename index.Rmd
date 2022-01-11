@@ -35,7 +35,7 @@ ____
 <br>
 
 #### Network Basics
-  + [Network Basics Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/lectures/CRJ_523_Week_1_SLIDES.pdf)
+  + [Network Basics Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_1_SLIDES.pdf)
 
 <br>
 
