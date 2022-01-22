@@ -40,6 +40,9 @@ ____
 <br>
 
 #### Introduction to Network Criminology
+  + [Network Criminology Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_2_SLIDES.pdf)  
+  
+  + [Network Criminology Theory Table](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_THEORY_TABLE.pdf) 
 
 <br>
 
