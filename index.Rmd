@@ -44,6 +44,9 @@ ____
   
   + [Network Criminology Theory Table](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_THEORY_TABLE.pdf) 
 
+  + [Network Criminology General Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_DISCUSSION_QUESTIONS.pdf) 
+
+<br>
 <br>
 
 ### Section One: Thinking About Networks in Criminology
@@ -53,7 +56,10 @@ ____
 <br>
 
 #### Peer Influence, Co-Offending, and Gangs
+  + [Discussion Questions]()  
+
 #### Neighborhood Ecology and Criminal Opportunity
+  + [Discussion Questions]()  
 
 <br>
 
