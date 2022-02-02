@@ -56,7 +56,7 @@ ____
 <br>
 
 #### Peer Influence, Co-Offending, and Gangs
-  + [Peer Influence, Co-Offending, and Gangs Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Week_3_SLIDES.pdf) 
+  + [Peer Influence, Co-Offending, and Gangs Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_3_SLIDES.pdf) 
 
   + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_DISCUSSION_W3.pdf)  
 
