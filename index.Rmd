@@ -35,16 +35,16 @@ ____
 <br>
 
 #### Network Basics
-  + [Network Basics Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_1_SLIDES.pdf)
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_1_SLIDES.pdf)
 
 <br>
 
 #### Introduction to Network Criminology
-  + [Network Criminology Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_2_SLIDES.pdf)  
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_2_SLIDES.pdf)  
   
-  + [Network Criminology Theory Table](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_THEORY_TABLE.pdf) 
+  + [Theory Table](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_THEORY_TABLE.pdf) 
 
-  + [Network Criminology General Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_DISCUSSION_QUESTIONS.pdf) 
+  + [General Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_DISCUSSION_QUESTIONS.pdf) 
 
 <br>
 <br>
@@ -56,7 +56,7 @@ ____
 <br>
 
 #### Peer Influence, Co-Offending, and Gangs
-  + [Peer Influence, Co-Offending, and Gangs Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_3_SLIDES.pdf) 
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_3_SLIDES.pdf) 
 
   + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_DISCUSSION_W3.pdf)  
 
@@ -65,7 +65,10 @@ ____
 
 
 #### Neighborhood Ecology and Criminal Opportunity
-  + [Discussion Questions]()  
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_4_SLIDES.pdf)   
+
+  + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_files/CRJ_523_Networks_DISCUSSION_W4.pdf)  
+
 
 <br>
 
@@ -78,19 +81,67 @@ ____
 
 #### Homophily
 
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
+
 #### Embeddedness
+
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
 
 #### Social Capital and Resource Mobilization
 
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
+
 #### Multiplexity
+
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
 
 #### Contagion & Diffusion
 
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
+
 #### Status and Hierarchy Formation
+
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
 
 #### Network Dynamics & Vulnerability
 
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
+
 #### Network Interventions & Policy Considerations
+
+  + [Slides]()   
+
+  + [Discussion Questions]()  
+
+<br>
 
 <br>
 <br>
