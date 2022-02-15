@@ -81,7 +81,7 @@ ____
 
 #### Homophily
 
-  + [Slides]()   
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_Week_5_SLIDES.pdf)   
 
   + [Discussion Questions]()  
 
