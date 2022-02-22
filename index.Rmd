@@ -93,7 +93,6 @@ ____
 
   + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_EMBEDDEDNESS_SLIDES.pdf)   
 
-  
   + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_EMBEDDEDNESS_PRESENTATION.pdf)
 
   + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_EMMBEDDEDNESS_QUESTIONS.pdf)   
