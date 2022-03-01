@@ -101,9 +101,11 @@ ____
 
 #### Social Capital and Resource Mobilization
 
-  + [Slides]()   
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_SOCIAL_CAPITAL_SLIDES.pdf)   
 
-  + [Discussion Questions]()  
+  + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_SOCIAL_CAPITAL_PRESENTATION.pdf)
+
+  + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_SOCIAL_CAPITAL_QUESTIONS.pdf)   
 
 <br>
 
