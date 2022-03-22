@@ -111,7 +111,7 @@ ____
 
 #### Multiplexity
 
-  + [Slides]()   
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_MULTIPLEXITY_SLIDES.pdf)   
 
   + [Discussion Questions]()  
 
@@ -119,7 +119,9 @@ ____
 
 #### Contagion & Diffusion
 
-  + [Slides]()   
+  + [Slides]()  
+  
+  + [Discussant Presentation]()
 
   + [Discussion Questions]()  
 
@@ -127,7 +129,9 @@ ____
 
 #### Status and Hierarchy Formation
 
-  + [Slides]()   
+  + [Slides]()  
+  
+  + [Discussant Presentation]()
 
   + [Discussion Questions]()  
 
@@ -135,7 +139,9 @@ ____
 
 #### Network Dynamics & Vulnerability
 
-  + [Slides]()   
+  + [Slides]()  
+  
+  + [Discussant Presentation]()
 
   + [Discussion Questions]()  
 
@@ -143,7 +149,9 @@ ____
 
 #### Network Interventions & Policy Considerations
 
-  + [Slides]()   
+  + [Slides]()  
+  
+  + [Discussant Presentation]()
 
   + [Discussion Questions]()  
 
