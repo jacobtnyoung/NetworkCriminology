@@ -121,7 +121,7 @@ ____
 
 #### Contagion & Diffusion
 
-  + [Slides]()  
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_CONTAGION_SLIDES.pdf)  
   
    + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_CONTAGION_DIFFUSION_PRESENTATION.pdf)
 
