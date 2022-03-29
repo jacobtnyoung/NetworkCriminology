@@ -113,9 +113,9 @@ ____
 
   + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_MULTIPLEXITY_SLIDES.pdf)   
 
-  + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_S22_MULTIPLEXITY_PRESENTATION.pdf)
+  + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_MULTIPLEXITY_PRESENTATION.pdf)
 
-  + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_S22_MULTIPLEXITY_QUESTIONS.pdf)  
+  + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_MULTIPLEXITY_QUESTIONS.pdf)  
 
 <br>
 
@@ -123,9 +123,10 @@ ____
 
   + [Slides]()  
   
-  + [Discussant Presentation]()
+   + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_CONTAGION_DIFFUSION_PRESENTATION.pdf)
 
-  + [Discussion Questions]()  
+  + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_CONTAGION_DIFFUSION_QUESTIONS.pdf)  
+  
 
 <br>
 
