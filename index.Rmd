@@ -132,11 +132,11 @@ ____
 
 #### Status and Hierarchy Formation
 
-  + [Slides]()  
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_STATUS_SLIDES.pdf)  
   
-  + [Discussant Presentation]()
+   + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_STATUS_HIERARCHY_PRESENTATION.pdf)
 
-  + [Discussion Questions]()  
+  + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_STATUS_HIERARCHY_QUESTIONS.pdf)  
 
 <br>
 
