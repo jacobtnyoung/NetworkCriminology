@@ -152,11 +152,11 @@ ____
 
 #### Network Interventions & Policy Considerations
 
-  + [Slides]()  
+  + [Slides](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_lectures/CRJ_523_INTERVENTIONS_SLIDES.pdf)  
   
-  + [Discussant Presentation]()
+   + [Discussant Presentation](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_INTERVENTIONS_PRESENTATION.pdf)
 
-  + [Discussion Questions]()  
+  + [Discussion Questions](https://github.com/jacobtnyoung/NetworkCriminology/raw/main/_presentations/CRJ_523_Networks_INTERVENTIONS_QUESTIONS.pdf)  
 
 <br>
 
